@@ -30,3 +30,6 @@ async def main(url):
 asyncio.run(main(url=url))
 
 #salom dunyo
+
+
+#salom nimaga
