@@ -28,3 +28,8 @@ async def main(url):
                 print(e)
 
 asyncio.run(main(url=url))
+
+#salom dunyo
+
+
+#salom nimaga
